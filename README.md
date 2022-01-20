@@ -1,6 +1,5 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wipie&count_private=true&show_icons=truetheme=onedark)
+### Hello mate how are you?
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wipie&count_private=true&show_icons=true&theme=dracula)
 
 
 <!--
